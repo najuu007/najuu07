@@ -1,1 +1,30 @@
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
+
+$ git clone https://github.com/giullianacestari/alura-books.git
+Cloning into 'alura-books'...
+remote: Enumerating objects: 193, done.
+remote: Counting objects: 100% (193/193), done.
+remote: Compressing objects: 100% (123/123), done.
+remote: Total 193 (delta 67), reused 172 (delta 47), pack-reused 0
+Receiving objects: 100% (193/193), 2.21 MiB | 3.00 MiB/s, done.
+Resolving deltas: 100% (67/67), done.
+
+$ cd alura-books
+
+
+---
+
+
+$ git remote remove origin
+
+https://github.com/naju007/meu-alura-books.git
+
+
+
+
+$ git remote add origin https://github.com/naju007/meu-alura-books.git
+
+
+
+
+---
